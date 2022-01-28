@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucascassian
+- 👀 I’m interested in work with tecnology
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and BootStrap
+- 📫 How to reach me : WhatsApp +55 67 99301 4076 - email lucascassiano_9@hotmail.com
